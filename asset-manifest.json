@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/my-game/static/css/main.7acaea2f.css",
-    "main.js": "/my-game/static/js/main.28f7573c.js",
+    "main.css": "/my-game/static/css/main.d399f449.css",
+    "main.js": "/my-game/static/js/main.c4ddf4a2.js",
     "static/media/putin-huilo.png": "/my-game/static/media/putin-huilo.e850c240c645afadf96c.png",
+    "static/media/safeme.png": "/my-game/static/media/safeme.8279d900c8c94f255ff5.png",
     "static/media/me.png": "/my-game/static/media/me.85b81e8b28365e032715.png",
+    "static/media/gameover.png": "/my-game/static/media/gameover.6337e55a9e822c1c9632.png",
     "index.html": "/my-game/index.html",
-    "main.7acaea2f.css.map": "/my-game/static/css/main.7acaea2f.css.map",
-    "main.28f7573c.js.map": "/my-game/static/js/main.28f7573c.js.map"
+    "main.d399f449.css.map": "/my-game/static/css/main.d399f449.css.map",
+    "main.c4ddf4a2.js.map": "/my-game/static/js/main.c4ddf4a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.28f7573c.js"
+    "static/css/main.d399f449.css",
+    "static/js/main.c4ddf4a2.js"
   ]
 }

@@ -13,3 +13,45 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.meHero{
+width: 450px;
+height: 350px;
+background-image: url('img/me.png');
+background-size: 450px 250px;
+background-repeat: no-repeat;
+position: relative;
+top: 150px;
+left: -50px;
+}
+.huilo{
+width: 80px;
+height: 80px;
+background-image: url('img/putin-huilo.png');
+background-size: 80px 80px;
+background-repeat: no-repeat;
+position: relative;
+top: -80px;
+left: 700px;
+ animation-name: huiloMove;
+ animation-duration: 4s;
+ animation-iteration-count: infinite;
+}
+@keyframes huiloMove {
+	 0% { left: 700px}
+ 100% { left: -80px;}
+}
+@keyframes jump {
+	 0% { top: 150px }
+ 50% {top: 0px}
+ 100% { top: 150px }
+}
+.jump{
+	animation-name: jump;
+ animation-duration: 1s;
+}
+img{
+	padding-top: 50px;
+	display: block;
+	width: 400px;
+	margin: auto;
+}

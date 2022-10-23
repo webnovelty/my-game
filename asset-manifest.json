@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/my-game/static/css/main.7acaea2f.css",
-    "main.js": "/my-game/static/js/main.51c46b8c.js",
+    "main.js": "/my-game/static/js/main.28f7573c.js",
+    "static/media/putin-huilo.png": "/my-game/static/media/putin-huilo.e850c240c645afadf96c.png",
+    "static/media/me.png": "/my-game/static/media/me.85b81e8b28365e032715.png",
     "index.html": "/my-game/index.html",
     "main.7acaea2f.css.map": "/my-game/static/css/main.7acaea2f.css.map",
-    "main.51c46b8c.js.map": "/my-game/static/js/main.51c46b8c.js.map"
+    "main.28f7573c.js.map": "/my-game/static/js/main.28f7573c.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.51c46b8c.js"
+    "static/js/main.28f7573c.js"
   ]
 }
